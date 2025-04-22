@@ -11,7 +11,6 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
 </p>
-<!--
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -22,33 +21,25 @@ located_in: Cergy
 current_position: Fourth-year computer engineering student
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
+    "Master's in Computer Engineering",
     "Two-year integrated preparatory program in Mathematics and Computer Science",
   ]
-company: Soulber
+school: CY Tech (exEISTI)
 
 fields_of_interests:
   [
-    "Web Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
     "Game Development",
-    "DevOps",
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - Backend Developer",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Deep learning, TensorFlow and PyTorch"]
+2025 Goals: ["Create at least 3 deep learning projects and learn Docker."]
+hobbies: ["Gaming", "Cinema", "Football", "Technology", "History"]
 ```
   
 ---  
@@ -83,4 +74,3 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
--->
